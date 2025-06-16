@@ -31,3 +31,6 @@ Weak correlation between TotalPremium and TotalClaims (r = 0.12)
 No significant correlation between SumInsured and other variables.
 
 Strong data imbalance in TotalPremium distribution — this may require log transformation or outlier treatment in future modeling steps.
+
+
+
